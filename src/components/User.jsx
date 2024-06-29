@@ -36,7 +36,7 @@ export default function User() {
         )
       }
 
-      {!profile && <SkeletonProfile />}
+      {!profile && <SkeletonProfile theme="dark" />}
 
     </div>
 
