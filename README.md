@@ -42,7 +42,17 @@ Contributing
 
 Since this project is intended for educational purposes, it is not suitable for general use. However, if you'd like to contribute or provide suggestions, feel free to open an issue on GitHub or submit a pull request.
 
+Credits
+------------
+
+This project was inspired by and developed based on the tutorial from [Net Ninja](https://www.youtube.com/@NetNinja). Special thanks to him for the insightful guidance and instructions on implementing skeleton loaders in React.
+
+Tutorial Link: [React Skeleton Screens Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i6bZhMuAzQpC6YgLmB4k4-)
+
+YouTube Channel: [Net Ninja](https://www.youtube.com/@NetNinja)
+
+
 License
 -------
 
-Licensed under the MIT License. See the LICENSE file for more information.
+Licensed under the MIT License. See the [LICENSE](/LICENSE) file for more information.
