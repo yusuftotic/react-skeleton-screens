@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import SkeletonProfile from '../skeletons/SkeletonProfile';
 
 export default function User() {
 
@@ -35,7 +36,7 @@ export default function User() {
         )
       }
 
-      {!profile && <div>Loading...</div>}
+      {!profile && <SkeletonProfile />}
 
     </div>
 
